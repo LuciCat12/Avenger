@@ -7,8 +7,7 @@
 3. Підсилювач хвоста.
 ![hvost](./STL/Підсилювач%20хвостової%20частини/hvost.jpg)
 4. Кріплення під термокамеру Caddx Thermal IRC-640CA.
-![Caddx1](./STL/Кріплення%20під%20термокамеру/Caddx%20Thermal%20IRC-640CA/Caddx1.png)
-![Caddx2](./STL/Кріплення%20під%20термокамеру/Caddx%20Thermal%20IRC-640CA/Caddx2.png)
+![Caddx1](./STL/Кріплення%20під%20термокамеру/Caddx%20Thermal%20IRC-640CA/Caddx1.jpg)
 5. Адаптер під скидання 82мм міни.
 ![mineAdapter82_1](./STL/Адаптер%20під%20скидання%2082мм%20міни/mineAdapter82_1.jpg)
 ![mineAdapter82_2](./STL/Адаптер%20під%20скидання%2082мм%20міни/mineAdapter82_2.jpg)
